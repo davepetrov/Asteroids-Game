@@ -17,7 +17,7 @@ The program requires 2 or 3 players at a time. Rules are explained in the menu
 
 **What are the controls?**
 
-Depending on your operating system, the rules are shown once the user selects how many players are playing. I have noticed that macs have this glitch of not loading the screen. (odd - will fix eventually). If you happen to have this issue, rules cnan be found in *./screens/[two-Rules.jpg/threeRules.jpg]*
+Depending on your operating system, the rules are shown once the user selects how many players are playing. I have noticed that macs have this glitch of not loading the screen. (odd - will fix eventually). If you happen to have this issue, rules can be found in *./screens/[two-Rules.jpg/threeRules.jpg]*
 
 Main ship:
 - :arrow_left: rotate counter-clockwise
@@ -29,7 +29,7 @@ Helper ship 1:
 - [D] Rotate clockwise
 - [W] Move forward in current direction
 
-Helpter ship 2:
+Helper ship 2:
 - [J] Rotate counter-clockwise
 - [L] Rotate clockwise
 - [I] Move forward in current direction
