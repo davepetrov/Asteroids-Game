@@ -2,6 +2,8 @@
 ![](gitimages/asteroidShooter.png)
 # Multiplayer Asteroids Game
 
+Date created: 01/23/2018
+
 ## Game description
 The objective is for the players is to keep the main (Large ship) player alive as long as possible. As players progress through the game the speed of the asteroids as well as the ships increases by a certain amount. Get as many (Bit)coins and compare scores with your friends! The helper ship's goal is to crash into asteroids and to protect the main ship!
 
